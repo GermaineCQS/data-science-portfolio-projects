@@ -10,13 +10,13 @@ a partir de sus características técnicas y de uso, comparando distintos enfoqu
 de modelado.
 
 ## 🧠 Desarrollo del proyecto
-- Análisis exploratorio de los datos
-- Limpieza y preparación del dataset
-- Ingeniería de características (features numéricas y categóricas)
+- Exploración inicial y análisis de calidad del dataset
+- Limpieza de datos y tratamiento de valores faltantes
+- Ingeniería de características con codificación one-hot
 - Implementación de un modelo baseline (predicción constante)
-- Entrenamiento de modelos de regresión
+- Entrenamiento de modelos de regresión (Regresión Lineal y Random Forest)
 - Comparación de modelos mediante la métrica RMSE
-- Revisión y prevención de posibles fugas de información (data leakage)
+- Exportación de resultados para dashboards (CSV)
 
 ## 🛠 Tecnologías utilizadas
 - Python
@@ -26,9 +26,9 @@ de modelado.
 - Jupyter Notebook
 
 ## 📊 Resultados
-Los modelos entrenados permitieron obtener predicciones consistentes, mostrando
-mejoras significativas frente al baseline inicial. El análisis de RMSE permitió
-seleccionar el modelo con mejor desempeño y mayor estabilidad.
+Los modelos entrenados mejoraron el rendimiento frente al baseline. La comparación
+por RMSE permitió seleccionar el modelo de mejor desempeño y generar una tabla
+de resultados lista para visualización.
 
 ## 📂 Contenido de la carpeta
 - `notebook.ipynb`: análisis exploratorio, feature engineering y entrenamiento
