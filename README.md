@@ -12,6 +12,8 @@ profesional y mostrar de manera práctica mis habilidades y forma de trabajo.
 - **Clasificación de reseñas de películas (NLP)**
 - **Predicción de precios de autos usados**
 - **Análisis estadístico de planes móviles**
+- **Optimización de recuperación de oro**
+- **Análisis de datos de Spotify**
 
 Cada proyecto cuenta con su propia carpeta, documentación y código asociado.
 
